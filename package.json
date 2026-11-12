@@ -1,0 +1,15 @@
+{
+  "name": "aguasmart",
+  "version": "1.0.0",
+  "description": "Sistema Inteligente de Monitoramento de Água - Protótipo Funcional",
+  "author": "Andrey Iago Costa Carvalho",
+  "license": "MIT",
+  "scripts": {
+    "start": "serve . -p 3000",
+    "dev": "serve . -p 3000",
+    "build": "echo 'Build concluído com sucesso para deploy estático na Vercel'"
+  },
+  "devDependencies": {
+    "serve": "^14.2.4"
+  }
+}
