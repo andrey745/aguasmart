@@ -1,55 +1,52 @@
-ÁguaSmart — Sistema Inteligente de Monitoramento de Água
+# 💧 ÁguaSmart — Sistema Inteligente de Monitoramento de Água
 
-Sobre o projeto
+Sistema web desenvolvido para monitorar o consumo de água, acompanhar medições e identificar possíveis desperdícios.
 
-O ÁguaSmart é um projeto voltado ao monitoramento inteligente do consumo de água, com o objetivo de promover o uso consciente dos recursos hídricos e contribuir para a redução do desperdício por meio da tecnologia.
+## 🌎 Acesse o projeto
 
-A solução propõe facilitar o acompanhamento do consumo, tornando as informações mais acessíveis e auxiliando na adoção de práticas sustentáveis.
+**[Acessar ÁguaSmart](https://aguasmart-9jsc.vercel.app/)**
 
-Objetivos
+## 🎯 Objetivo
 
-Monitorar o consumo de água de forma prática e eficiente.
+Promover o uso consciente da água por meio da tecnologia, permitindo acompanhar o consumo e identificar possíveis anomalias nas medições.
 
-Facilitar a visualização e a análise dos dados de consumo.
+## ⚙️ Funcionalidades
 
-Auxiliar na identificação de possíveis desperdícios.
+- Dashboard de monitoramento.
+- Cadastro e gerenciamento de pontos de medição.
+- Registro de leituras de consumo.
+- Histórico de medições.
+- Central de alertas.
+- Simulador de dados para testes.
+- Área administrativa.
 
-Incentivar o uso sustentável dos recursos hídricos.
+## 🛠️ Tecnologias
 
-Funcionalidades previstas
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Vercel
 
-Acompanhamento do consumo de água.
+## 📚 Documentação
 
-Visualização de informações e dados de consumo.
+O planejamento, os requisitos funcionais, os requisitos não funcionais, o modelo de dados e os critérios de aceitação estão disponíveis no arquivo [`spec.md`](./spec.md).
 
-Identificação de possíveis padrões de desperdício.
+## 🚀 Publicação
 
-Apoio à tomada de decisões para economizar água.
+O projeto está hospedado na Vercel e possui acesso público para demonstração.
 
-As funcionalidades estão previstas na proposta e dependem do desenvolvimento e da validação do sistema.
+**Observação:** o protótipo utiliza funcionalidades de demonstração. A integração com sensores físicos e a confirmação de persistência em banco de dados real permanecem como etapas de evolução.
 
-Tecnologias e documentação
+## 🎓 Contexto acadêmico
 
-O planejamento técnico, os requisitos e as decisões relacionadas à arquitetura e à implantação estão documentados no arquivo spec.md.
+Projeto desenvolvido no âmbito do Simulado Centelha 3 — Rondônia.
 
-O projeto segue a abordagem Spec-Driven Development, que prioriza a definição dos requisitos e da especificação antes da implementação do software.
+**Instituição:** IFRO — Campus Porto Velho Calama  
+**Curso:** Técnico em Informática  
+**Autor:** Andrey Iago Costa Carvalho  
+**Docente:** Rafael Pitwak
 
-Status do projeto
+---
 
-Fase atual: Planejamento e especificação técnica.
-
-O sistema ainda está em fase de estruturação. As próximas etapas envolvem a validação dos requisitos, a implementação das funcionalidades e a realização de testes.
-
-Impacto esperado
-
-O ÁguaSmart busca contribuir para a preservação dos recursos hídricos, alinhando inovação tecnológica, sustentabilidade e consumo responsável, especialmente aos Objetivos de Desenvolvimento Sustentável (ODS) 6 — Água Potável e Saneamento — e 12 — Consumo e Produção Responsáveis.
-
-Contexto acadêmico
-
-Projeto desenvolvido no âmbito do Simulado Centelha 3 — Rondônia, com foco em inovação, planejamento de software e sustentabilidade.
-
-Autor
-
-Andrey Iago Costa Carvalho
-
-ÁguaSmart — Tecnologia a serviço do uso consciente da água.
+*ÁguaSmart — Tecnologia a serviço do uso consciente da água.*
